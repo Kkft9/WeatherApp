@@ -136,7 +136,7 @@ public class MainActivity extends AppCompatActivity {
             String resultText = "Main :                     "+main+
                     "\n\nDescription :    "+description +
                     "\n\nTemperature :   "+ String.valueOf(roundOff) +" *C"+
-                    "\n\nHumidity :   "+humidity +" Km/hr"+
+                    "\n\nHumidity :   "+humidity +" %"+
                     "\n\nWind :   "+wind +" Km/hr";
 
             details.setText(resultText);
