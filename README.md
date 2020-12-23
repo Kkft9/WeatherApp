@@ -1,5 +1,5 @@
 # WeatherApp #
-* A simple weather app for Adnroid. 
+* A simple weather app for Android. 
 * Shows the weather details - temperature, humidity and wind speed, for the city entered.
 
 ## Images ##
