@@ -133,7 +133,7 @@ public class MainActivity extends AppCompatActivity {
             double temperature = Double.parseDouble(temp) - 273;
             double roundOff = (double) Math.round(temperature * 100) / 100;
 
-            String resultText = "Main :                     "+main+
+            String resultText = "Main :     "+main+
                     "\n\nDescription :    "+description +
                     "\n\nTemperature :   "+ String.valueOf(roundOff) +" *C"+
                     "\n\nHumidity :   "+humidity +" %"+
